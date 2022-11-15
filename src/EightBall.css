@@ -1,0 +1,23 @@
+.EightBall {
+    margin: auto;
+    margin-top: 50px;
+    /* padding: 50px; */
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.EightBall-message {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-weight: 700;
+    /* vertical-align: middle; */
+    /* margin-top: 50%; */
+    /* margin-bottom: 50%; */
+    /* padding: auto; */
+    align-items: center;
+    position: relative;
+    /* margin-top: 50%; */
+    /* display: block; */
+}
