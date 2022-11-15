@@ -5,6 +5,9 @@
     width: 300px;
     height: 300px;
     border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
 }
 
 .EightBall-message {
@@ -12,12 +15,6 @@
     color: white;
     font-size: 25px;
     font-weight: 700;
-    /* vertical-align: middle; */
-    /* margin-top: 50%; */
-    /* margin-bottom: 50%; */
-    /* padding: auto; */
-    align-items: center;
-    position: relative;
-    /* margin-top: 50%; */
-    /* display: block; */
+
+  
 }
